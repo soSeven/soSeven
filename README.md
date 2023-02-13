@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soSeven&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=SoNavigationController)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=SoNavigationController&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soSeven&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
