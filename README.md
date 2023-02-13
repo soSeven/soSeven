@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=SoNavigationController&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soSeven&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soSeven&theme=onedark)](https://github.com/ashutosh00710/github-readme-activity-graph)
