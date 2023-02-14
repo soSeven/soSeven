@@ -9,6 +9,7 @@
 | <a href="https://github.com/soSeven/chengyujielong"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula"/></a> | <a href="https://github.com/soSeven/Dingweibao"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=Dingweibao&theme=dracula" /></a> |
 | ------------- | ------------- |
 | <a href="https://github.com/soSeven/CrazyMusic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=CrazyMusic&theme=dracula"/></a> | <a href="https://github.com/soSeven/CleanPhoto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=CleanPhoto&theme=dracula" /></a> |
+| <a href="https://github.com/soSeven/WallPaper"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=WallPaper&theme=dracula"/></a> | <a href="https://github.com/soSeven/CleanPhoto"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=CleanPhoto&theme=dracula" /></a> |
 
 #### Langs
 
