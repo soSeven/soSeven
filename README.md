@@ -25,5 +25,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula)](https://github.com/soSeven/chengyujielong)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula)](https://github.com/soSeven/chengyujielong)
----
+
+<a href="https://github.com/soSeven/chengyujielong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula" />
+</a>
+
+| <a href="https://github.com/soSeven/chengyujielong"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula"/></a> | <a href="https://github.com/soSeven/chengyujielong"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soSeven&repo=chengyujielong&theme=dracula" /></a> |
+| ------------- | ------------- |
+
 
